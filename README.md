@@ -1,6 +1,6 @@
 # 3 Card Night Mode
 
-**[Live Preview](https://htmlpreview.github.io/?https://github.com/1digitalnomad/3cardnightmode/blob/master/index.html)**
+**[Live Preview](https://1digitalnomad.github.io/3cardnightmode/   )**
 
 ![App screenshot](screenshot.png)
 
